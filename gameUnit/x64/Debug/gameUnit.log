@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nurih\Desktop\C++\тренировка удалить\gameUnit\gameUnit\Source.cpp(19,22): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "Type", не может равняться данной константе
+C:\Users\nurih\Desktop\C++\тренировка удалить\gameUnit\gameUnit\Source.cpp(81,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  gameUnit.vcxproj -> C:\Users\nurih\Desktop\C++\тренировка удалить\gameUnit\x64\Debug\gameUnit.exe
